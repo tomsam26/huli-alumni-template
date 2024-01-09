@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/tomas-samseli/
 Email: tomas.samseli@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+Portfolio Website: https://tomas-samseli.vercel.app/
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 Codewars: https://www.codewars.com/users/tom.sam
